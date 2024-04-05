@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Android Project Collection</string>
+    <string name="picture">Picture</string>
+    <string name="button_share">SHARE</string>
+    <string name="button_like">LIKE</string>
+    <string name="name_mark">Mark</string>
+    <string name="name_kyle">Kyle</string>
+    <string name="name_dave">Dave</string>
+    <string name="name_paul">Paul</string>
+    <string name="name_luis">Luis</string>
+    <string name="name_josh">Josh</string>
+    <string name="description">Description</string>
+    <string name="text_comment">Comment</string>
+    <string name="btnClose">Close</string>
+    <string name="btnToast">Toast</string>
+    <string name="btnChangeBG">Change BG</string>
+    <string name="btnChangeButtonBG">Change Button BG</string>
+    <string name="btnDisappear">Disappear</string>
+    <string name="btnReturn">Return</string>
+    <string name="numberDisplay">0</string>
+    <string name="empty"></string>
+    <string name="num0Button">0</string>
+    <string name="num1Button">1</string>
+    <string name="num2Button">2</string>
+    <string name="num3Button">3</string>
+    <string name="num4Button">4</string>
+    <string name="num5Button">5</string>
+    <string name="num6Button">6</string>
+    <string name="num7Button">7</string>
+    <string name="num8Button">8</string>
+    <string name="num9Button">9</string>
+    <string name="divideButton">/</string>
+    <string name="addButton">+</string>
+    <string name="minusButton">-</string>
+    <string name="multiplyButton">*</string>
+    <string name="decimalButton">.</string>
+    <string name="equalsButton">=</string>
+    <string name="clearButton">Clear</string>
+    <string name="deleteButton">Del</string>
+    <string name="layoutExercise">Layout</string>
+    <string name="calculatorExercise">Calculator</string>
+    <string name="buttonExercise">Button</string>
+    <string name="exercises">EXERCISES</string>
+    <string name="buttonsExerciseLabel">BUTTONS</string>
+</resources>

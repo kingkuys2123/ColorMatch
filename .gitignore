@@ -31,3 +31,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Other ignored files
+.DS_Store
